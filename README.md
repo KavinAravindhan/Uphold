@@ -30,7 +30,7 @@ The lack of motivation for volunteering activities inspired us to design this pl
 
 ## Installation
 
-To get started with Fucolicious, follow these steps:
+To get started with Uphold, follow these steps:
 
 1. **Clone the repository:**
    ```sh
