@@ -76,6 +76,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Application Demo:** [Quick Intro](https://github.com/KavinAravindhan/Uphold/blob/master/images/Quick%20Intro.mkv) , [Detailed Walkthrough](https://github.com/KavinAravindhan/Uphold/blob/master/images/Detailed%20Walkthrough.mkv)
 - **UI:** [Figma](https://www.figma.com/design/4h5UoRhAIr8zFuFiqfhH77/Final-Design?node-id=0-1&t=5RlBlAgxRmC0brc7-0) , [Design File](https://github.com/KavinAravindhan/Uphold/blob/master/images/Figma%20Design%20File.fig)
 
+To view the application demo file and design file, download them locally by clicking "View Raw" once you access the link.
+
 ## Team Acknowledgment 🙌
 
 A special thanks to our amazing team for their dedication and hard work. Despite the challenges, their commitment to learning new technologies and collaborating effectively made this project a success.
