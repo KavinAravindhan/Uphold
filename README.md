@@ -1,4 +1,4 @@
-# UpHold - Private 🌍
+# UpHold 🌍
 
 ![Build Status](https://img.shields.io/badge/build-stable-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
